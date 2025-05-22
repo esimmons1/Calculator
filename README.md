@@ -1,7 +1,8 @@
 Calculator
 ==========
 
-By Ellis Simmons  
+By Ellis Simmons - 2019 I think
+Made with Java
 
 What is this?
 -------------
