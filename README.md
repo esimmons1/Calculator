@@ -1,7 +1,7 @@
 Calculator
 ==========
 
-By Ellis Simmons - 2019 I think
+By Ellis Simmons - 2019 I think <br/>
 Made with Java
 
 What is this?
