@@ -1,14 +1,21 @@
-# Calculator
+Calculator
+==========
 
+By Ellis Simmons  
+
+What is this?
+-------------
 Simple calculator project I made in my free time.  
 It currently does basic arithmetic like addition, subtraction, multiplication, and division.  
 Might add more functions later, idk.
 
-## Features  
+Features:
+---------
 - Basic math operations  
 - Easy to use interface  
 
-## How to use  
+How to use:
+-----------
 Just run the program and enter your expressions. It’ll do the math for you.
 
 ---
