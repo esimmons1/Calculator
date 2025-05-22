@@ -1,8 +1,8 @@
 Calculator
 ==========
 
-By Ellis Simmons - 2019 I think <br/>
-Made with Java
+Made by: Ellis Simmons - 2019 I think <br/>
+Language: Java
 
 What is this?
 -------------
