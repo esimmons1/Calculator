@@ -1,7 +1,7 @@
 Calculator
 ==========
 
-Made by: Ellis Simmons - 2019 I think <br/>
+Made by: Ellis Simmons - 2019    
 Language: Java
 
 What is this?
